@@ -1,0 +1,36 @@
+# Power BI
+**/.pbi/localSettings.json
+**/.pbi/cache.abf
+*.pbix
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Windows
+Thumbs.db
+Desktop.ini
+*.tmp
+
+# Data files (if you don't want to share raw data)
+*.csv
+*.xlsx
+*.json
+
+# Local settings
+local.settings.json
+*.local.json
